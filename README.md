@@ -2,6 +2,7 @@
 
 ### I graduated from Durham University with a First Class Honours degree, as the highest performing finalist in Computer Science. I am now completing my Masters at Imperial in Advanced Computing
 > Bsc in Natural Sciences: Computer Science and Mathematics - **1st**, **83/100**
+> MEng in Advanced Computing
 
 ## Contents:
 This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
@@ -21,8 +22,8 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
     <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width="96" title="Tensorflow"/>
-    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="Numpy"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="scikit-learn"/>
+    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="96" title="Numpy"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="96" title="scikit-learn"/>
 </div></center>
 
 ### Intermediate:
