@@ -64,16 +64,14 @@ I am studying MSc Advanced Computing at Imperial College and will graduate in 20
 ## Modules: 
   > Mathematics for Machine Learning  
   > Reinforcement Learning  
-  > Introduction for Machine Learning  
-  > Computer Vision
-  > Scheduling and Resource Allocation 
-  
-  > Deep Learning 
-  > Natural Language Processing 
-  > Robot Learning 
-  > Machine Learning for Imaging 
-  
-  > MAC Individual Project
+  > Introduction for Machine Learning   
+  > Computer Vision  
+  > Scheduling and Resource Allocation  
+  > Deep Learning  
+  > Natural Language Processing  
+  > Robot Learning  
+  > Machine Learning for Imaging  
+  > MAC Individual Project  
 
 
 # My Undergrad Degree 🎓 - 1st (83/100):
@@ -81,9 +79,8 @@ I am studying MSc Advanced Computing at Imperial College and will graduate in 20
 I studied Computer Science and Mathematics at Durham University under the Natural Sciences program and graduated in 2022.
 
 ## Third Year 🥉 - 1st (85/100):
->Natural Sciences' Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners.
->Natural Sciences' Exceptional Achievement Certificate awarded for being top performing finalist within Computer Science. 
-
+>Natural Sciences' Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners  
+>Natural Sciences' Exceptional Achievement Certificate awarded for being top performing finalist within Computer Science  
 
 ### BSc Dissertation/Project:
 * Deep Ensembled Truncated Quantile Critic with Recurrent Networks (DETRN+) - [R2D4-RL](https://github.com/Lauren-Stumpf/dissertation): 84, 11th in year. [Tensorflow]
