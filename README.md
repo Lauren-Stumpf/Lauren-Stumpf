@@ -62,9 +62,9 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 I am studying MSc Advanced Computing at Imperial College and will graduate in 2023. 
 ## Modules: 
-  > Mathematics for Machine Learning 
-  > Reinforcement Learning 
-  > Introduction for Machine Learning 
+  > Mathematics for Machine Learning //  
+  > Reinforcement Learning \\
+  > Introduction for Machine Learning \n
   > Computer Vision
   > Scheduling and Resource Allocation 
   
