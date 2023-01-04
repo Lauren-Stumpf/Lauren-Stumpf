@@ -116,9 +116,6 @@ I studied Computer Science and Mathematics at Durham University under the Natura
     > 
     > I implemented two state-of-the-art deep model-based recommender systems (RS), a novel content-collaborative hybrid RS and a solely collaborative RS. These RSs foster user satisfaction in different ways; the first by capturing the complex user-item interaction structures and the second that exploits temporal data. To compliment these RSs I created a fully-fledged UI where user can log in, register, submit new reviews and retrieve personalized movie recommendations using our two recommender systems. Due to being highly optimized, the recommender can retrain itself almost instantly when a user submits a new review or on alteration to a prediction which allows the user to interact with the recommender and see the recommendations change in real-time.
 
-We then contrast the two different recommender methodologies and evaluate which is most effective with respect to customer satisfaction and engagement - metrics conducive to profit. We also comment on which feedback form (explicit or implicit) is more preferable to exploit from the perspective of our results.
-
-
 * Independent Reasearch Project - [advancing-SOTA-supermarios](https://github.com/Lauren-Stumpf/Independent_Project): 90, 1st in year. [Pytorch]
     > ![Gifdemo1](https://github.com/Lauren-Stumpf/Independent_Project/blob/main/mario_video.gif)
     > 
