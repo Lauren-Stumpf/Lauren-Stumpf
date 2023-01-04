@@ -106,7 +106,7 @@ I studied Computer Science and Mathematics at Durham University under the Natura
 
 
 * Reinforcement Learning - [TQC+D2RL](https://github.com/Lauren-Stumpf/Reinforcement_Learning_Coursework): 100, 1st in year. [PyTorch]
-    >![Gifdemo2](https://user-images.githubusercontent.com/18665030/136660504-c89f9c89-41d3-4070-982f-23473bda3fcb.gif)
+    >![Gifdemo2](https://github.com/Lauren-Stumpf/Reinforcement_Learning_Coursework/blob/main/bipedal_walker_score%3D330.gif)
     >
     > We were tasked with creating a Reinforcement Learning agent to complete the Bipedal Walker gym environment. To do this, this paper surveyed and evaluated four different approaches (Twin Deep Deterministic Policy, Soft Actor Critic, Augmented Random Search and Truncated Quantile Critic) for the Bipedal Walker environment and distinguished Truncated Quantile Critic as the most advantageous. It focuses on performing a robust and comprehensive hyperparameter sweep (as initial trials indicated that all agents were very sensitive to hyperparameter choices) to find the hyperparameters most suitable for the Bipedal Walker environment. It then augmented the neural architecture by incorporating findings from D2RL. The resultant agent is able to solve both the BipedalWalker and BipedalWalkerHardcore environments.
 
