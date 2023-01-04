@@ -88,10 +88,8 @@ I studied Computer Science and Mathematics at Durham University under the Natura
    > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_reach_video.gif" width="250" height="250"/>
    > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_slide_video.gif" width="250" height="250"/>
     
-    > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to complete the Fetch environments (various robotic manipulation tasks) despite the sparse and uninformative reward signal. 
+    > I supplement the sparse task reward with a dense task-independent intrinsic reward. I then research and combine the most appropriate recent state of the art namely ensemble learning, hindsight experience replay, D2RL, R2D2 with some novel practices and architecture such as a new data augmentation scheme and dropout layers. I produce a Deep Ensembled Truncated Quantile Critic with Recurrent Networks (defined in this paper). The final agent is extremely competent and surpasses the performance of all surveyed approaches. It is able to complete the three manipulation tasks inspite of the sparse and uninformative task reward. It is also able to generalise across environments. We also demonstrate some of the best practices to exploit a predominately intrinsic reward signal.
   
-
-### Computer Science (58% of year, including Dissertation):
 * Deep Learning - [StyleGAN2-ADA](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework): 100/100, 1st in year. [PyTorch]
     > ![Gifdemo245](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/complete_1.png)
     > 
