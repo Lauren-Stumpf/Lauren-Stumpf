@@ -96,8 +96,7 @@ I studied Computer Science and Mathematics at Durham University under the Natura
     > ![Gifdemo245](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/complete_1.png)
     > 
     >  The task was to generate realisitic and diverse images (using the FFHQ dataset) given severe hardware constraints and then to interpolate smoothly between these images. To do this, this paper proposes using a StyleGAN2 architecture in combination with an adaptive discriminator augmentation (ADA) mechanism trained on the FFHQ dataset. This mechanism passes the images shown to the discriminator through an augmentation pipeline and dynamically adjusts the strength of augmentation. 
-    >  
-    >  ![image](https://user-images.githubusercontent.com/18665030/136662270-38cae834-5912-43ac-b3df-23d1592d13f7.png)
+    >   
     > ![inter_1](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_1.png)
     > ![inter_2](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_2.png)
     > ![inter_3](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_3.png)
