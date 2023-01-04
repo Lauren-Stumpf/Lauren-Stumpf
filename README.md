@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Lauren, an aspiring Reinforcement Learning and Machine Learning Engineer!
 
 ### I graduated from Durham University with a First Class Honours degree, as the highest performing finalist in Computer Science. I am now completing my Masters at Imperial College London in Advanced Computing
-> BSc Computer Science and Mathematics - **1st**, **84/100**
-
+> BSc Computer Science and Mathematics - **1st**, **84/100**  
 > MEng in Advanced Computing - In progress 
 
 ## Contents:
