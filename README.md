@@ -8,7 +8,7 @@
 ## Contents:
 This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 1. [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-2. [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
+2. [University Performance and Projects 👩‍💻](#my-university-degree-)
 3. [Career Breakdown 👷‍♀️](#my-career-)
 4. [Prior Education 📚](#prior-education-)
 
