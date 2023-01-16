@@ -119,6 +119,19 @@ I studied Computer Science and Mathematics at Durham University under the Natura
     > 
     > During my Independent Project, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7.
 
+* Bioinformatics - [bio](https://github.com/Lauren-Stumpf/Bioinformatics_Coursework): 100, 1st in year. 
+    > ![Gifdemo1](https://github.com/Lauren-Stumpf/Bioinformatics_Coursework/blob/main/log_likelihood.png)
+    > 
+    > Coursework implementing the Baum-Welch algorithm, discussion of implementation choices (normalising alpha and beta values, working in log space, parallelization etc.), verification of correctness, in addition to answers to problem sheets on different techniques for amalgamating rooted phylogenetic trees.
+   
+* Computational Modelling in the Humanities and Social Sciences - [mp_geography](https://github.com/Lauren-Stumpf/Computational_Modelling_in_the_Humanities_and_Social_Sciences): 79, 19th in year. 
+    > ![Gifdemo1](https://github.com/Lauren-Stumpf/Computational_Modelling_in_the_Humanities_and_Social_Sciences/blob/main/MFA_graph.png)
+    > 
+    > This report causally models the geographical distribution of MP’s place of birth, at a regional and historical county level, temporally from the first Parliament to present day. This analysis facilitates an evaluation of how geographically representative the MPs elected over time have been and highlights areas that are underrepresented or overrepresented.
+
+Fair representation, as asserted by Philips [3], is achieved by there existing a loose correspondence between the experiences of those in government and their electorate [4]. This analysis provides an important dimension in answering how well the UK government has achieved fair representation. It finds specific relevance in understanding whether the historic regional funding bias [5] can be attributed to the geographic representativeness of MPs.
+
+
 ### Mathematics (16% of year):
 
 * Mathematical Modelling: 62
@@ -176,7 +189,7 @@ Key achievements and responsibilities:
     * During my 3rd year, after having achieved 92 in Theory of Computation, I was recruited to lead three weekly practical groups teaching Models of Computation and Algorithms and Complexity. 
 
 ## University of Surrey - Jun 2020:
-> <img src="https://lanterne.ai/wp-content/uploads/2021/02/logo_colours-1024x251.png" height="96"/>
+
 * Research Intern on ‘Next Generation Paper’ Research Project:
  3-month placement in a £1.1 million funded, multidisciplinary project, investigating the future potential of paper and its relationship to the web by using augmented reality and printed electronics. 
 Key achievements and responsibilities: 
